@@ -1,0 +1,9 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+It creates a location that serves as a source of data tracking to store
+information on the local system. It needs to be done in order to fully
+instantiate the repository for storage/share use.
+
+
+
+  
